@@ -3,6 +3,11 @@ MediaWikiAnalysis
 
 MediaWiki Analysis Tool to gather information about pages, changes and people in MediaWiki based websites.
 
+Requirement
+===========
+
+This tool requires Python 2; it does not work with Python 3.
+
 Usage
 =====
 
